@@ -91,13 +91,6 @@
 <img src="https://img.shields.io/badge/Change%20Management-BE185D?style=flat-square" alt="Change Management"/>
 <img src="https://img.shields.io/badge/AI--assisted%20Delivery-111827?style=flat-square" alt="AI-assisted delivery"/>
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mekhakrishnanm&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhakrishnanm&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
 ### 🎓 Education & certifications
 - Diploma in Computer Application, Madras Christian College
 - Google Project Initiation & Foundations of Project Management (2025)
